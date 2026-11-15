@@ -1,16 +1,16 @@
 # PrompTrace
 
-**PrompTrace is a local-first Chrome extension for capturing, labeling, organizing, copying, summarizing, exporting, restoring, and deleting prompt workflow assets.**
-
-It is built for people who move between AI chat tools, image generators, video tools, reference pages, and local files. PrompTrace lets you intentionally save selected text, images, and videos as structured records, then trace which input, reference, negative prompt, and output belonged together.
-
-PrompTrace is **not** an LLM client, prompt generator, cloud sync service, account system, analytics tool, or general-purpose downloader.
-
 <p>
   <a href="README.md">English</a> ·
   <a href="README.zh-TW.md">繁體中文</a> ·
   <a href="README.zh-CN.md">简体中文</a>
 </p>
+
+**PrompTrace is a local-first Chrome extension for capturing, labeling, organizing, copying, summarizing, exporting, restoring, and deleting prompt workflow assets.**
+
+It is built for people who move between AI chat tools, image generators, video tools, reference pages, and local files. PrompTrace lets you intentionally save selected text, images, and videos as structured records, then trace which input, reference, negative prompt, and output belonged together.
+
+PrompTrace is **not** an LLM client, prompt generator, cloud sync service, account system, analytics tool, or general-purpose downloader.
 
 <video src="https://raw.githubusercontent.com/Ak89890123/PrompTrace/main/docs/demo.mp4" controls width="100%"></video>
 
