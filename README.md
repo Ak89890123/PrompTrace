@@ -12,9 +12,7 @@ It is built for people who move between AI chat tools, image generators, video t
 
 PrompTrace is **not** an LLM client, prompt generator, cloud sync service, account system, analytics tool, or general-purpose downloader.
 
-[![Watch the demo (69s)](public/preview/card-layout-output.jpg)](https://github.com/Ak89890123/PrompTrace/blob/main/docs/demo.mp4)
-
-🎬 [Watch the 69-second demo](https://github.com/Ak89890123/PrompTrace/blob/main/docs/demo.mp4)
+<video src="https://github.com/user-attachments/assets/3a2175f9-a1f9-483f-863e-505358ea3a71" width="100%" poster=""> </video>
 
 ## What it solves
 
