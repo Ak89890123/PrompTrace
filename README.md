@@ -12,6 +12,8 @@ PrompTrace is **not** an LLM client, prompt generator, cloud sync service, accou
   <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+<video src="https://raw.githubusercontent.com/Ak89890123/PrompTrace/main/docs/demo.mp4" controls width="100%"></video>
+
 ## What it solves
 
 AI work often leaves useful material scattered across chat history, screenshots, downloads, notes, and tabs. After a few iterations, it becomes hard to answer:
