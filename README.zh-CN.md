@@ -12,6 +12,10 @@ PrompTrace **不是** LLM 客户端、不是 prompt 生成器、不是云同步�
   <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ed4500a8-8b05-4700-8de9-48139d13c816" width="70%" poster=""> </video>
+</div>
+
 ## 解决的问题
 
 AI 工作常常把重要素材分散在聊天记录、截图、下载文件夹、笔记与标签页里。多做几轮后，很难回答：
